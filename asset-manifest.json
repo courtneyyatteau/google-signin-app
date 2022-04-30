@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-signin-app/static/css/main.fb4b8d6d.css",
+    "main.js": "/google-signin-app/static/js/main.5e64ff76.js",
+    "static/js/787.e5788219.chunk.js": "/google-signin-app/static/js/787.e5788219.chunk.js",
+    "index.html": "/google-signin-app/index.html",
+    "main.fb4b8d6d.css.map": "/google-signin-app/static/css/main.fb4b8d6d.css.map",
+    "main.5e64ff76.js.map": "/google-signin-app/static/js/main.5e64ff76.js.map",
+    "787.e5788219.chunk.js.map": "/google-signin-app/static/js/787.e5788219.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4b8d6d.css",
+    "static/js/main.5e64ff76.js"
+  ]
+}
